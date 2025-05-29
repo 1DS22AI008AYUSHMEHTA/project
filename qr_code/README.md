@@ -12,12 +12,17 @@ All outputs are saved in the `output/` folder.
 ## 📁 Folder Structure
 
 qr_code/
-├── qr1.py # Basic QR code generator script
-├── qr2.py # Colored QR code generator script
-├── requirements.txt # Python dependencies
-└── output/ # Output folder for generated images
-├── qr_image.png # Output from qr1.py
-└── colored_qr.png # Output from qr2.py
+
+├── qr1.py 
+
+├── qr2.py 
+
+├── requirements.txt
+
+└── output/ 
+
+├── qr_image.png 
+└── colored_qr.png 
 
 
 
@@ -33,10 +38,3 @@ pip install -r requirements.txt
 
 
 
-## 🔗 Clone the Repository
-
-Clone this project using Git:
-
-```bash
-git clone https://github.com/1DS22AI008AYUSHMEHTA/qr-code-generator.git
-cd qr-code-generator/qr_code
